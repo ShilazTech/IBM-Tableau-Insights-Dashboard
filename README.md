@@ -26,7 +26,7 @@ It is designed to showcase **data-driven storytelling** using Tableau.
 ## 🖼️ Dashboard Previews
 Here are some visuals of the dashboards created:
 
-![Dashboard ](images/dashboard.png)  
+![Dashboard ](images/Dashboard.png)  
  
 
 ---
